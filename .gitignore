@@ -1,0 +1,7 @@
+# Ignore build and dist directories for gui-app
+gui-app/build/
+gui-app/dist/
+
+# Ignore build and dist directories for Student-management-system
+Student-management-system/build/
+Student-management-system/dist/
